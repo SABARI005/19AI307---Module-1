@@ -20,9 +20,9 @@ To write a Java program demonstrating Inheritance and Aggregation by creating su
 ## PROGRAM:
  ```
 /*
-Program to implement a Inheritance and Aggregation using Java
-Developed by : NIRAUNJANA GAYATHRI G R
-RegisterNumber : 212222230096 
+Program to implement a Array using Java
+Developed by : SABARI S
+RegisterNumber : 212222240085
 */
 ```
 
